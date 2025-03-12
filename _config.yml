@@ -223,3 +223,11 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+    title: "My Portfolio"
+author: "Your Name"
+theme: minimal-mistakes-jekyll  # Change this if using a different theme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
